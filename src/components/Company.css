@@ -1,0 +1,17 @@
+.company{
+    height: 400px;
+}
+.seti{
+    height: 400px;
+    width: 400px;
+}
+.flexi{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    margin-left: 50%;
+    margin-top: 5%;
+}
+.sizing{
+    width: 80%;
+}

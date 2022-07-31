@@ -1,0 +1,51 @@
+.head{
+    color: #f48750;
+    font-size: 2.5rem;
+    padding-top: 8px;
+}
+.head h2{
+    font-weight: bolder;
+}
+.height{
+    height: 170px;
+    width: 600px;
+    border-radius: 20px;
+    background-color: #f48750;
+}
+.pad{
+    
+    padding-top: 43px;
+}
+.marg{
+    margin-top: -12px;
+
+}
+/* h3{
+    color: black;
+} */
+h3 span{
+    color: black;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+}
+.colorButton{
+    background-color: black;
+    color: white;
+    width: 11%;
+    height: 4%;
+    border: 3px solid #f48750;
+    border-radius: 10px;
+}
+.space{
+    /* margin-left: 3%; */
+    align-items: center;
+    justify-content: center;
+}
+.just{
+    padding: 0;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+}

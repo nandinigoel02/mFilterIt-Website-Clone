@@ -1,0 +1,49 @@
+.heading .colored{
+    color: #f48750;
+}
+.para{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-size: 1.5rem;
+    font-weight:500;
+}
+.margin{
+    border-radius: 20px;
+    height: 330px;
+    box-shadow: 3px;
+}
+.rows{
+    margin-top: 40px;
+    align-items: center;
+    justify-content: center;
+    margin-right: 0;
+}
+/* .size{
+    margin: 0;
+    padding: 0;
+    /* top: 0; */
+    /* display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 20px; */
+/* } */
+.texts{
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    font-size: x-large;
+}
+.rows .card{
+    box-shadow: 0 3px 8px rgb(0 0 0 / 24%);
+}
+/* .rows :hover{
+    height: 400px;
+    width: 300px;
+    margin-left: 10px;
+    margin-right: 10px;
+} */
